@@ -1,0 +1,12 @@
+aside{
+    height: 93vh;
+    width: var(--sidebar-width);
+    background-color: cornflowerblue;
+    position: fixed;
+}
+
+aside h1{
+    margin: 0;
+    display: flex;
+    align-items: center;
+}

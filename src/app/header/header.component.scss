@@ -1,0 +1,13 @@
+header {
+    display: flex;
+    align-items: center;
+    height: var(--header-height);
+    padding: 0 1 rem;
+    background-color: rgb(187, 225, 130);
+}
+
+header h1{
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: 800;
+}
